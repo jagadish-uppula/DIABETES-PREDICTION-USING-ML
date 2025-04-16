@@ -3,7 +3,6 @@
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-1.3.0-orange)
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.28.0-red)
-![License](https://img.shields.io/badge/License-MIT-green)
 
 An end-to-end machine learning system for early diabetes prediction using clinical parameters, designed for healthcare professionals.
 
